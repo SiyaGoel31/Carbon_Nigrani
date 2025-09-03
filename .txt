@@ -1,0 +1,12 @@
+npm init -y
+npm install express dotenv cors body-parser
+npm install --save-dev nodemon
+
+Update package.json:
+"scripts": {
+  "start": "node src/app.js",
+  "dev": "nodemon src/app.js"
+}
+
+Create a .env file:
+PORT=4000
