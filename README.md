@@ -53,9 +53,5 @@ The project focuses on **real impact**—helping India’s coal sector transitio
 
 ---
 
-## 🚀 Getting Started  
+🔥 Carbon Nigrani is not just a project—it’s a step towards making India’s coal sector greener, sustainable, and future-ready.
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/SiyaGoel31/Carbon_Nigrani.git
-   cd Carbon_Nigrani
